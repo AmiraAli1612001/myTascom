@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/myTascom/static/css/main.d87bf1d7.css",
+    "main.js": "/myTascom/static/js/main.0868a61d.js",
+    "index.html": "/myTascom/index.html",
+    "main.d87bf1d7.css.map": "/myTascom/static/css/main.d87bf1d7.css.map",
+    "main.0868a61d.js.map": "/myTascom/static/js/main.0868a61d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d87bf1d7.css",
+    "static/js/main.0868a61d.js"
+  ]
+}
